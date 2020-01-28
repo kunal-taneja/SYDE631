@@ -1,2 +1,1 @@
-# SYDE675
-Time Series Modeling Project
+# SYDE631 - Time Series Modeling Project
